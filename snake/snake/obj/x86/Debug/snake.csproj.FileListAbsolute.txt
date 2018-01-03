@@ -1,0 +1,4 @@
+D:\Users\admin\Desktop\Geekbrains\Курс [Об'єктно-орієнтоване програмування]\snake\snake\bin\Debug\snake.exe
+D:\Users\admin\Desktop\Geekbrains\Курс [Об'єктно-орієнтоване програмування]\snake\snake\bin\Debug\snake.pdb
+D:\Users\admin\Desktop\Geekbrains\Курс [Об'єктно-орієнтоване програмування]\snake\snake\obj\x86\Debug\snake.exe
+D:\Users\admin\Desktop\Geekbrains\Курс [Об'єктно-орієнтоване програмування]\snake\snake\obj\x86\Debug\snake.pdb
